@@ -1,4 +1,4 @@
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RomarioHenrique/Projeto_Clima/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RomarioHenrique/WordCloud/blob/main/LICENSE)
 [![Anaconda-Server Badge](https://anaconda.org/anaconda/anaconda/badges/installer/conda.svg)](https://conda.anaconda.org/anaconda)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas)
 
