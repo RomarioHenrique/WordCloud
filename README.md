@@ -27,6 +27,12 @@ diretamente proporcional a sua quantidade de ocorrências.
 ## Objetivo do Projeto:
 <b> O projeto tem como objetivo exibir de forma visual as palavras mais recorrentes em publicações no Twitter 
 relacionadas as Eleições Brasileiras de 2022, utilizando a #Eleições2022 como filtro para seleção dos tweets. </br>
+
+## Técnologias Usadas: 
+* Python
+* Pacote Anaconda (Jupyter Lab)
+* Bibliotecas
+
 <hr>
 
 # Como usar:
@@ -56,12 +62,12 @@ relacionadas as Eleições Brasileiras de 2022, utilizando a #Eleições2022 com
 
 # Resultados
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/brasil.png" />
+  <img alt="results" title="#results" src="assets/brasil.png" />
 </h1>
 <hr>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/brasil2.png" />
+  <img alt="results" title="#results" src="assets/brasil2.png" />
 </h1>
 <hr>
 
